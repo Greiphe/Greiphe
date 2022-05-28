@@ -18,7 +18,7 @@
   
 ### Coisas que eu gosto 😊
   
-+ Musica
+* Musica
 * Jogar
 * Desenhar 
 * Criar novas coisas
