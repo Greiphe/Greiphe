@@ -2,7 +2,8 @@
 # Olá eu sou o  Greife 💎
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/99847920/170893846-e6b2d77b-331d-4c33-a1e7-d122acb9e546.png" width="600px" height="350px" />
+  ![logo (2)]()
+  <img src="https://user-images.githubusercontent.com/99847920/170894413-bc94356c-063f-406c-b047-981371152bb0.png" width="600px" height="350px" />
 </div>
 
   
