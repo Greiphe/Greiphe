@@ -1,6 +1,10 @@
 
 # Olá eu sou o  Greife 💎
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/99847920/170893846-e6b2d77b-331d-4c33-a1e7-d122acb9e546.png" width="600px" height="350px" />
+</div>
+
   
 ### Coisas que eu gosto 😊
   
