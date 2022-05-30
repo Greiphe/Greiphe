@@ -2,9 +2,16 @@
 <div align="center">
   
 # Olá eu sou o  Greife 💎
+
+</div>
+
+<div align="center">
+
+ <img src="https://user-images.githubusercontent.com/99847920/171056719-894aa85f-eaf3-4578-8fc0-b2c88337496b.png" width="320px" height="450px"/> 
+
  
 </div>
-  
+
 ### Coisas que eu gosto de fazer 😊
   
 * Ouvir Musicas
