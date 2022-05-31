@@ -68,7 +68,7 @@
 <br />  
   
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/99847920/170894413-bc94356c-063f-406c-b047-981371152bb0.png" width="600px" height="350px" />
+  <img src="https://user-images.githubusercontent.com/99847920/171289109-a3a8cd88-500d-48b4-a6ed-949c11c8dec6.png" width="600px" height="350px" />
 </div>
 
 <br />  
