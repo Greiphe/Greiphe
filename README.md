@@ -68,14 +68,14 @@
 <br />  
   
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/99847920/171289109-a3a8cd88-500d-48b4-a6ed-949c11c8dec6.png" width="600px" height="350px" />
+  <img src="https://user-images.githubusercontent.com/99847920/171755520-b3e524ea-35df-49a2-ba2a-8d4eb142bc7d.png" width="600px" height="350px" />
 </div>
 
 <br />  
   
 * Obs: o formulário de contato não está funcionando pois o servidor do github não roda php para eu poder enviar o formulário para o email
 * slide de eventos está sendo implementado.
-  
+* no momento eu estou implementando o site portfólio se estiver um erro  é por que estou consertando  
 
 
   
