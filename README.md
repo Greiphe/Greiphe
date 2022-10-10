@@ -6,10 +6,9 @@
 </div>
 
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/99847920/194890230-fc68a8d3-342f-439b-932e-ea669a7b275b.png" width="600px" height="350px" />
 
- <img src="https://user-images.githubusercontent.com/99847920/171056719-894aa85f-eaf3-4578-8fc0-b2c88337496b.png" width="320px" height="450px"/> 
-
- 
+  
 </div>
 
 ### Coisas que eu gosto de fazer 😊
@@ -34,6 +33,7 @@
   <a href="https://www.instagram.com/_greiph_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:contatogreifera.trabalho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/greiph-silva-1b548921a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Portfolio Profissional-7289DA?style=for-the-badge&logo=computer&logoColor=white" target="_blank"></a>
  
 </div>
 
@@ -55,7 +55,7 @@
 <br />
   
 ### Perfil Profissional 👨‍💻
-  Aqui no Github eu publico projeto, estudo e evolução mas eu tenho o meu site que estou desenvolvendo com HTML5, CSS3, Javascript e Bootstrap. Ele esta hospedado aqui mesmo, eu estou fazendo ele para testar meus hards skills e evoluir mais ainda conforme o meu objetivo, lá tem mais informações sobre mim os meus portfolios de projetos que fiz para empresas, conta mais sobre os meus softs skills e sobre eventos atuais que estou fazendo no momento, e contato.
+  Aqui no Github eu publico projeto, estudo e evolução mas eu tenho o meu site que estou desenvolvendo com HTML5, CSS3, Javascript e Bootstrap. Ele esta hospedado aqui mesmo,MAS o 2.0 esta em outro lugar, eu estou fazendo ele para testar meus hards skills e evoluir mais ainda conforme o meu objetivo, lá tem mais informações sobre mim os meus portfolios de projetos que fiz para empresas, conta mais sobre os meus softs skills e hard skill, sobre eventos atuais, e contato.
 
 <div>  
 
@@ -63,19 +63,9 @@
 
 </div>
   
- https://greiphe.github.io/
-
-<br />  
+  https://greiphe.dognew.com.br/Greiph/
   
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/99847920/171755520-b3e524ea-35df-49a2-ba2a-8d4eb142bc7d.png" width="600px" height="350px" />
-</div>
 
-<br />  
-  
-* Obs: o formulário de contato não está funcionando pois o servidor do github não roda php para eu poder enviar o formulário para o email
-* slide de eventos está sendo implementado.
-* no momento eu estou implementando o site portfólio se estiver um erro  é por que estou consertando  
 
 
   
