@@ -31,9 +31,11 @@
  ### Redes Sociais 👥
   
   <a href="https://www.instagram.com/_greiph_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+     <a href="https://discord.gg/H99UvKZJ" target="_blank"><img src="https://img.shields.io/badge/- Discord -7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href = "mailto:contatogreifera.trabalho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/greiph-silva-1b548921a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Portfolio Profissional-7289DA?style=for-the-badge&logo=computer&logoColor=white" target="_blank"></a>
+
  
 </div>
 
@@ -44,21 +46,35 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=greiphe&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=greiphe&layout=compact&langs_count=7&theme=radical"/>
 </div>
-<div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+
   
 <br />
   
-### Perfil Profissional 👨‍💻
-  Aqui no Github eu publico projeto, estudo e evolução mas eu tenho o meu site que estou desenvolvendo com HTML5, CSS3, Javascript e Bootstrap. Ele esta hospedado aqui mesmo,MAS o 2.0 esta em outro lugar, eu estou fazendo ele para testar meus hards skills e evoluir mais ainda conforme o meu objetivo, lá tem mais informações sobre mim os meus portfolios de projetos que fiz para empresas, conta mais sobre os meus softs skills e hard skill, sobre eventos atuais, e contato.
+## Perfil Profissional 👨‍💻
 
+  ### Soft Skill
+  
+![Level](https://github.com/Greiphe/Greiphe/assets/99847920/b291559a-483e-413c-a62d-6915a8af0f02)
+
+  <br />
+  
+  ### Hard Skill
+
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Ts" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
+  <img align="center" alt="Rafa-React" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Rafa-HTML" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+      <img align="center" alt="Rafa-CSS" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg">
+          <img align="center" alt="Rafa-CSS" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+              <img align="center" alt="Rafa-CSS" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+</div>
+  
 <div>  
-
+  
+<br />
+  
 <b>Venha me visitar!</b>👇
 
 </div>
