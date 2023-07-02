@@ -15,7 +15,7 @@
 
 </div>
   
- <a target="blanck" href="https://greiphe.dognew.com.br/Greiph/"> Site Portfolio para empresas </a>  
+ <a target="blank" href="https://greiphe.dognew.com.br/Greiph/"> Site Portfolio para empresas </a>  
 
 <h3> Coisas que eu gosto de fazer 😊 </h3>
   
