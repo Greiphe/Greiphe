@@ -11,11 +11,18 @@
   
 </div>
 
- ### Venha me visitar! 👇
+</div>
+
+<div align="center">
+
+ ### Venha me visitar clicando a baixo! 👇
+
+
+  <a href="https://greiphe.dognew.com.br/Greiph/" target="_blank"><img height="50px" src="https://img.shields.io/badge/-Portfolio para empresas-%230077B5?style=for-the-badge&logo=computer&logoColor=white" target="_blank"></a> 
 
 </div>
   
- <a href="https://greiphe.dognew.com.br/Greiph/" target="_blank"> Site Portfolio para empresas </a>  
+##
 
 <h3> Coisas que eu gosto de fazer 😊 </h3>
   
@@ -32,7 +39,7 @@
      <a href="https://discord.gg/H99UvKZJ" target="_blank"><img src="https://img.shields.io/badge/- Discord -7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href = "mailto:contatogreifera.trabalho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/greiph-silva-1b548921a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Portfolio Profissional-7289DA?style=for-the-badge&logo=computer&logoColor=white" target="_blank"></a>
+
 
 
 ##
