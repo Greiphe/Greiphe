@@ -120,8 +120,7 @@
   <div style="display: inline_block"><br>
   
   <img align="center" alt="Rafa-CSS" height="50" width="50" title="WORDDPRESS" src="https://github.com/Greiphe/Greiphe/assets/99847920/e1fdc100-a33b-41ab-940d-5cbe23247fcb">
-      <img align="center" alt="Rafa-CSS" height="50" width="50" 
-title="BOOTSTRAP STUDIO" src="https://github.com/Greiphe/Greiphe/assets/99847920/805d10ca-e1c3-4323-add5-637cb1d25e32">
+
 
 
 </div>
