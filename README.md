@@ -18,7 +18,7 @@
  ### Venha me visitar clicando a baixo! 👇
 
 
-  <a href="https://greiphe.dognew.com.br/" target="_blank"><img height="50px" src="https://img.shields.io/badge/Site para empresas-%230077B5?style=for-the-badge&logo=computer&logoColor=white" target="_blank"></a> 
+  <a href="https://greiphe.dognew.com.br" target="_blank"><img height="50px" src="https://img.shields.io/badge/Site para empresas-%230077B5?style=for-the-badge&logo=computer&logoColor=white" target="_blank"></a> 
 
 </div>
   
