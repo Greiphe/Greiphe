@@ -47,7 +47,9 @@
  
  <h3> Sobre mim 🧐 </h3> 
  
-  Olá eu sou o Greife e esse é meu portfolio pessoal, com a tendencia de crescer ainda mais, atualmente estou criando a minha carreira como Developer Front End e Designer; Eu gosto de tecnologia e ela me surpreende cada vez mais quanto mas eu pesquiso e estudo eu fico mais intrigado, mas nem sempre eu fui tão bom com isso pois eu não tinha muito contato com isso na infância e fui começar a ter experiência com computador quando eu tinha 16 Anos, quando um familiar me perguntou se eu queria fazer curso técnico de "Informática para Internet" no Instituo Federal sp, eu aceitei! achava que era um curso basico para aprender a mexer com o computador mas não. Os professores explicaram o que aprenderiamos ao decorrer do curso que seria HTML, CSS, JAVASCRIPT, Edição de imagem, C++, robotica e etc..., eu fique com uma cara do tipo "do que ela esta falando... é alienigenas?".modeste a parte eu me sai muito bem em no curso.
+Olá estou desenvolvendo a minha carreira como Front End $ UX e UI, sou muito criativo e um olho muito bom para cores usando a psicologia das cores, está ai os meus desenhos realistas que não deixam mentir e projetos criados, um apaixonado por tecnologia e interação com o usuário.
+
+Tenho uma boa comunicação, leitura corporal e comportamental das pessoas, gosto de desfios e resolver problemas, "colocar a cara a tapa", sempre dou o meu máximo com tudo o que vem a minha mão para fazer isso é um pouco do meu eu, agora eu estou curioso para te conhecer melhor.
   
 <div>
 
