@@ -35,7 +35,7 @@
 ##
 
 <h3> Redes Sociais 👥 </h3>
-  <a href="https://www.instagram.com/_greiph_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/greife_ofc/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
      <a href="https://discord.gg/H99UvKZJ" target="_blank"><img src="https://img.shields.io/badge/- Discord -7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href = "mailto:contatogreifera.trabalho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/greiph-silva-1b548921a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -47,7 +47,7 @@
  
  <h3> Sobre mim 🧐 </h3> 
  
-Olá estou desenvolvendo a minha carreira como Front End $ UX e UI, sou muito criativo e um olho muito bom para cores usando a psicologia das cores, está ai os meus desenhos realistas que não deixam mentir e projetos criados, um apaixonado por tecnologia e interação com o usuário.
+Olá estou desenvolvendo a minha carreira como Front End & UX e UI, sou muito criativo e um olho muito bom para cores usando a psicologia das cores, está ai os meus desenhos realistas que não deixam mentir e projetos criados, um apaixonado por tecnologia e interação com o usuário.
 
 Tenho uma boa comunicação, leitura corporal e comportamental das pessoas, gosto de desfios e resolver problemas, "colocar a cara a tapa", sempre dou o meu máximo com tudo o que vem a minha mão para fazer isso é um pouco do meu eu, agora eu estou curioso para te conhecer melhor.
   
@@ -84,44 +84,44 @@ Tenho uma boa comunicação, leitura corporal e comportamental das pessoas, gost
   ### Hard Skill
 
   <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="50" width="40" title="JAVASCRIPT" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-      <img align="center" alt="Rafa-Js" height="50" width="50" title="BOOTSTRAP" src="https://github.com/Greiphe/Greiphe/assets/99847920/2124a8a2-5c22-4119-804b-cbd16a09bae2">
-  <img align="center" alt="Rafa-React" height="50" width="40" title="GIT" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Rafa-HTML" height="50" width="40" title="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="50" width="40" title="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" height="60" width="60" title="NODE" src="https://github.com/Greiphe/Greiphe/assets/99847920/f9ea5536-50ec-426a-b480-419c8e451102">
-<img align="center" height="40" width="45" title="REACT" src="https://github.com/Greiphe/Greiphe/assets/99847920/1e5954d4-197c-4fa0-ba2e-3c6f4f174379">
+  <img align="center" alt="Rafa-Js" height="30" width="30" title="JAVASCRIPT" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+      <img align="center" alt="Rafa-Js" height="30" width="30" title="BOOTSTRAP" src="https://github.com/Greiphe/Greiphe/assets/99847920/2124a8a2-5c22-4119-804b-cbd16a09bae2">
+  <img align="center" alt="Rafa-React" height="30" width="30" title="GIT" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="30" title="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="30" title="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" height="40" width="40" title="NODE" src="https://github.com/Greiphe/Greiphe/assets/99847920/f9ea5536-50ec-426a-b480-419c8e451102">
+<img align="center" height="30" width="35" title="REACT" src="https://github.com/Greiphe/Greiphe/assets/99847920/1e5954d4-197c-4fa0-ba2e-3c6f4f174379">
 </div>
   
 
  #### IDEs
 
   <div style="display: inline_block"><br>
-      <img align="center" alt="Rafa-CSS" height="50" width="40" title="TRELLO" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg">
-          <img align="center" alt="Rafa-CSS" height="50" width="40" title="VSCODE" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+      <img align="center" alt="Rafa-CSS" height="30" width="30" title="TRELLO" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg">
+          <img align="center" alt="Rafa-CSS" height="30" width="30" title="VSCODE" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 
 </div>
 
  #### Designer
 
   <div style="display: inline_block"><br>
-      <img align="center" alt="Rafa-CSS" height="50" width="50" title="CANVA" src="https://github.com/Greiphe/Greiphe/assets/99847920/2ea0e952-9fc0-4223-8574-0e23fb4fd28a">
-          <img align="center" alt="Rafa-CSS" height="50" width="40" title="FIGMA" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-              <img align="center" alt="Rafa-CSS" height="60" width="50" title="GIMP" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg">
+      <img align="center" alt="Rafa-CSS" height="30" width="30" title="CANVA" src="https://github.com/Greiphe/Greiphe/assets/99847920/2ea0e952-9fc0-4223-8574-0e23fb4fd28a">
+          <img align="center" alt="Rafa-CSS" height="30" width="30" title="FIGMA" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+              <img align="center" alt="Rafa-CSS" height="30" width="30" title="GIMP" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg">
 </div>
 
  #### Sistemas Operacionais
 
   <div style="display: inline_block"><br>
-          <img align="center" alt="Rafa-CSS" height="40" width="40" title="WINDOWS" src="https://github.com/Greiphe/Greiphe/assets/99847920/f05bada2-1dbe-48b0-bc7c-dd39f22a02e2">
-              <img align="center" alt="Rafa-CSS" height="60" width="50" title="LINUX" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+          <img align="center" alt="Rafa-CSS" height="30" width="30" title="WINDOWS" src="https://github.com/Greiphe/Greiphe/assets/99847920/f05bada2-1dbe-48b0-bc7c-dd39f22a02e2">
+              <img align="center" alt="Rafa-CSS" height="30" width="30" title="LINUX" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div>
 
  #### CMS
 
   <div style="display: inline_block"><br>
   
-  <img align="center" alt="Rafa-CSS" height="50" width="50" title="WORDDPRESS" src="https://github.com/Greiphe/Greiphe/assets/99847920/e1fdc100-a33b-41ab-940d-5cbe23247fcb">
+  <img align="center" alt="Rafa-CSS" height="30" width="30" title="WORDDPRESS" src="https://github.com/Greiphe/Greiphe/assets/99847920/e1fdc100-a33b-41ab-940d-5cbe23247fcb">
 
 
 
