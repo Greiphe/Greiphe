@@ -30,7 +30,7 @@
 * Jogar
 * Desenhar 
 * Criar novas coisas
-* Novos desafios
+* Novos Desafios
   
 ##
 
