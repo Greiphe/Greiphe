@@ -59,9 +59,9 @@ Tenho uma boa comunicação, leitura corporal e comportamental das pessoas, gost
 <h3> Github Status </h3>
 
 <div align="center">
-  <a href="https://github.com/greiphE">
+  <a href="https://github.com/greiphe">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=greiphe&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=greiphe&layout=compact&langs_count=7&theme=radical"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=greiphe&layout=compact&langs_count=7&theme=radical"/> </a>
 </div>
     
 <br />
