@@ -67,11 +67,4 @@ Tenho uma boa comunicação, leitura corporal e comportamental das pessoas, gost
 <br />
 
 
-  
-  <img align="center" alt="Rafa-CSS" height="30" width="30" title="WORDDPRESS" src="https://github.com/Greiphe/Greiphe/assets/99847920/e1fdc100-a33b-41ab-940d-5cbe23247fcb">
 
-
-
-</div>
-  
-<br />
